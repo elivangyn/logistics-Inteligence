@@ -1,4 +1,8 @@
 Logística & Supply Chain Analytics (AI-Augmented)
+## 🚀 Acesso ao Projeto Online
+Você pode acessar o dashboard rodando ao vivo pelo link abaixo:
+👉 [Acessar Logistics Intelligence (GitHub Pages)](https://elivangyn.github.io/logistics-Inteligence/)
+
 
 📌 Visão Geral do Projeto
 
